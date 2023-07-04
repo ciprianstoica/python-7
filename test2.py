@@ -1,0 +1,1 @@
+print('inca un fisier')
